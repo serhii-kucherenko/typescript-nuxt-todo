@@ -1,4 +1,4 @@
-# Simple TODO list on TypeScript & Nuxt
+# Simple TODO list (TypeScript & Nuxt)
 
 ## [Live Demo](https://cherenkor.github.io/typescript-nuxt-todo/)
 
