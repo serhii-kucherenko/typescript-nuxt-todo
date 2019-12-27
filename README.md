@@ -1,9 +1,9 @@
 # Simple TODO list on TypeScript & Nuxt
 
-> [Live Demo](https://cherenkor.github.io/typescript-nuxt-todo/)
+## [Live Demo](https://cherenkor.github.io/typescript-nuxt-todo/)
 
 
-## Build Setup
+### Build Setup
 
 ``` bash
 # install dependencies
