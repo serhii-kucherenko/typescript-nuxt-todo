@@ -1,5 +1,8 @@
 # Simple TODO list on TypeScript & Nuxt
 
+> [Live Demo](https://cherenkor.github.io/typescript-nuxt-todo/)
+
+
 ## Build Setup
 
 ``` bash
