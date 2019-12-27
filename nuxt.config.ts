@@ -54,6 +54,7 @@ const config: Configuration = {
   */
   router: {
     linkExactActiveClass: 'active',
+    base: '/typescript-nuxt-todo/',
   },
   /*
   |------------------------------------------------------
