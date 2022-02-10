@@ -57,7 +57,7 @@
     "eslint-plugin-prettier": "^3.1.2",
     "husky": "^3.1.0",
     "lint-staged": "^9.5.0",
-    "node-sass": "^4.13.0",
+    "node-sass": "^7.0.0",
     "nodemon": "^2.0.2",
     "nuxt-property-decorator": "^2.5.0",
     "postcss-html": "^0.36.0",
